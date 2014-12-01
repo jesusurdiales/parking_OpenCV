@@ -9,6 +9,9 @@
 #include <opencv2\video\tracking.hpp>
 #include <iostream>
 #include <vector>
+#include <Windows.h>
+#include <string>
+#include <sstream>
 
 using namespace std;
 using namespace cv;
